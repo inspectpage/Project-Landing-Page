@@ -77,3 +77,21 @@ button{
     gap: 32px;
     text-align: center;
 }
+
+.quote{
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 500px;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+}
+
+.author{
+    width: 100%;
+    text-align: right;
+
+}
